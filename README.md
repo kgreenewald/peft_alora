@@ -1,3 +1,6 @@
+
+# FORK OF HF PEFT, NOW MERGED ENABLING ACTIVATED LORA SUPPORT
+
 <!---
 Copyright 2023 The HuggingFace Team. All rights reserved.
 
